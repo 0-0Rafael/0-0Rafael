@@ -5,7 +5,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 
 <a href="https://www.linkedin.com/in/rafael-ariel-custodio-guillén-726430276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rafael Ariel Custodio Guillen" height="30" width="40" /></a>
-[![Gmail](https://raw.githubusercontent.com/0-0Rafael/0-0Rafael/master/Assets/nuevo.png(mailto:mail@rafaelarielcgy@gmail.com))
+[![Gmail](https://raw.githubusercontent.com/0-0Rafael/0-0Rafael/master/Assets/nuevo.png)(mailto:mail@rafaelarielcgy@gmail.com)
 
 ## ⚡ Skills:
 - Node.js
