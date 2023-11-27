@@ -4,7 +4,7 @@
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 
-<a href="[(https://www.linkedin.com/in/rafael-ariel-custodio-guillén-726430276/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rafael Ariel Custodio Guillen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-ariel-custodio-guillén-726430276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rafael Ariel Custodio Guillen" height="30" width="40" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@rafaelarielcgy@gmail.com)
 
 ## ⚡ Skills:
