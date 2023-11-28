@@ -9,10 +9,10 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <a href="https://www.instagram.com/arielc_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael ariel custodio guillen" height="30" width="40" /></a>
 
 ## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+- No
+- No
+- No
+- No
 <!--
 **0-0Rafael/0-0Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
