@@ -13,8 +13,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - No
 - No
 - No
-<!--
-**0-0Rafael/0-0Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
